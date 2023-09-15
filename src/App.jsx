@@ -48,8 +48,8 @@ function App() {
           product={listaProdutos}
           rate={rate}
           count={count}
-        />
-    </div>
+          />
+    </div>          
   )
 }
 
