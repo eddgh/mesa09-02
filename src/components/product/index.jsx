@@ -31,11 +31,11 @@ function Product({ product, rate, count }) {
                 </div>
 
                 <div className="rate star">
-                    <img src="/public/star-svgrepo-com.svg" alt="" />
+                    <img src="public/star-svgrepo-com.svg" alt="" />
                     <h6>{rate}</h6>
                 </div>
                 <div className="rate count">
-                    <img src="/public/emot-rate-rating-svgrepo-com.png" alt="" />
+                    <img src="public/emot-rate-rating-svgrepo-com.png" alt="" />
                     <h6>({count})</h6>
                 </div>
             </div>
